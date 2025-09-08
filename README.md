@@ -1,8 +1,8 @@
 # Emergency-Hotline-Service
 ## What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
-i. getElementById: selector type ID, select the first element with mataching id.
-ii. getElementsByClassName: HTML collection and selector type is Class name, selecting all the element with the matching class
-iii. querySelector: selector type is CSS selector which select first element that matching with selector 
+i. getElementById: selector type ID, select the first element with mataching id. <br>
+ii. getElementsByClassName: HTML collection and selector type is Class name, selecting all the element with the matching class <br>
+iii. querySelector: selector type is CSS selector which select first element that matching with selector <br>
 iv. querySelectorAll: selector type is CSS selector (static nodeList) which select all element that matching with selector
 
 ## How do you create and insert a new element into the DOM?
